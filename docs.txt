@@ -1,0 +1,30 @@
+npx kill-port 3000
+
+npx comes with npm
+
+nodejs is javascript runtime which helps to run js in our computer without using the browser
+
+react runs on port 3000
+
+In react execution starts from index.js
+
+state in react
+
+npm init(initilize an package.json file)
+
+
+mongodb->  saurabh
+		12345
+
+newurlparser:true
+
+
+REDUX is the frontend's database
+
+REDUCER:
+reducer(previousState,action)=> nextstate
+
+for one application we have only one redux store
+
+middleware-thunk
+
